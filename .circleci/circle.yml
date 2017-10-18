@@ -4,7 +4,7 @@ machine:
     - docker
   node:
     # You can configure other node version here if needed
-    version: 8.5.0
+    version: 4.5.0
   # these are ENV variables the we can use on our build server
   # please note that sensitive variables will be passed on the web panel
   # Usually it's a good practice to keep your private keys away from source control
